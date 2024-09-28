@@ -1,1 +1,1 @@
-print("Hello, every living thing in this World!")
+print("HALLO GALA MY G!")
