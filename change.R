@@ -1,1 +1,3 @@
-print("Hello, everyone else!")
+
+print("HALLO GALA MY G!")
+
